@@ -1,0 +1,11 @@
+---
+title:
+- type: main
+  text: The Rust Programming Language
+creator:
+- role: author
+  text: Steve Klabnik
+- role: author
+  text: Carol Nichols
+publisher: NoStarchPress 
+...
